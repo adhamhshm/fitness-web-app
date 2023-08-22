@@ -1,6 +1,6 @@
 ## About the App
 
-A web application for assisting in exercises and fitness activities.
+A web application for assisting in exercises and fitness activities. The API for the web is retrieved from [ExerciseDB](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb) via Rapid API.
 
 ![Web Homepage](screenshots/fitness-web-screenshot.png)
 
