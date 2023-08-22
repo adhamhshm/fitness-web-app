@@ -1,3 +1,9 @@
+## About the App
+
+A web application for assisting in exercises and fitness activities.
+
+![Web Homepage](screenshots/fitness-web-screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
